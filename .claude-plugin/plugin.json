@@ -1,0 +1,26 @@
+{
+  "name": "the-founding-reader",
+  "displayName": "The Founding Reader",
+  "version": "1.0.0",
+  "description": "Research American founding-era primary sources with exact text, attribution, dates, curated debates and documented replies.",
+  "author": {
+    "name": "Gerald Norby",
+    "email": "norbonics@outlook.com",
+    "url": "https://norbonics.com"
+  },
+  "homepage": "https://foundingreader.com/plugin",
+  "license": "MIT",
+  "keywords": [
+    "founding fathers",
+    "federalist papers",
+    "anti-federalist",
+    "constitution",
+    "primary sources",
+    "american history"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://foundingreader.com/plugin",
+  "supportUrl": "https://norbonics.com/support",
+  "privacyPolicyUrl": "https://foundingreader.com/plugin/privacy",
+  "termsOfServiceUrl": "https://foundingreader.com/plugin/terms"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "founding-reader",
+  "owner": {
+    "name": "Gerald Norby",
+    "email": "norbonics@outlook.com"
+  },
+  "description": "Plugins from Gerald Norby's Norbonics studio",
+  "plugins": [
+    {
+      "name": "the-founding-reader",
+      "source": "./",
+      "description": "Research American founding-era primary sources with exact text, attribution, dates, curated debates and documented replies."
+    }
+  ]
+}
