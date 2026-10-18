@@ -10,7 +10,7 @@ When Claude calls a tool, it sends the endpoint short search terms, a document o
 
 Privacy policy: https://foundingreader.com/plugin/privacy
 Terms: https://foundingreader.com/plugin/terms
-Support: https://norbonics.com/support (norbonics@outlook.com)
+Support: https://norbonics.com/support (support@norbonics.com)
 
 ## Install
 

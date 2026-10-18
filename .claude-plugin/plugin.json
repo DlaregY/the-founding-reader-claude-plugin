@@ -1,11 +1,11 @@
 {
   "name": "the-founding-reader",
   "displayName": "The Founding Reader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Research American founding-era primary sources with exact text, attribution, dates, curated debates and documented replies.",
   "author": {
     "name": "Gerald Norby",
-    "email": "norbonics@outlook.com",
+    "email": "support@norbonics.com",
     "url": "https://norbonics.com"
   },
   "homepage": "https://foundingreader.com/plugin",
