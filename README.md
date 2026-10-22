@@ -14,14 +14,14 @@ Support: https://norbonics.com/support (support@norbonics.com)
 
 ## Install
 
+Install [The Founding Reader from Claude's plugin directory](https://claude.ai/customize/plugins/id/30172d21-46a0-46f0-8c94-6dbf8f9a712c%40anthropic-plugin-directory).
+
 In Claude Code:
 
 ```
 claude plugin marketplace add DlaregY/the-founding-reader-claude-plugin
 claude plugin install the-founding-reader@founding-reader
 ```
-
-In Claude chat or Cowork, upload the release ZIP under Customize > Plugins > Upload plugin.
 
 ## Try it
 
